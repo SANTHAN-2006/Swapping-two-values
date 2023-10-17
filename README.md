@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```python
+```
 #Program to swap two values
 #Developed by: Santhan Kumar
 #RegisterNumber: 23004568
@@ -30,10 +30,10 @@ b = temp
 print("Swapped numbers are", a, b)
 ```
 ## OUTPUT:
-
+!['Output'](/swapping%20values.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus, the swapping of two values are successfully executed.
 
 
 
